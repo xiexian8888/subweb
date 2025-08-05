@@ -1,8 +1,8 @@
-window.config = {
+window。config = {
   // 网站标题
-  siteName: 'Subconverter Web',
+  siteName: 'WestDate Subconverter',
   // API 地址
-  apiUrl: 'http://127.0.0.1:25500',
+  apiUrl: 'https://conver.linkeless.com',
   // 短域名服务地址
   shortUrl: 'https://s.ops.ci',
   // 首页菜单
@@ -14,7 +14,7 @@ window.config = {
     },
     {
       title: 'GitHub',
-      link: 'https://github.com/stilleshan/subweb',
+      link: 'https://github.com/xiexian8888/subweb',
       target: '_blank',
     },
   ],
